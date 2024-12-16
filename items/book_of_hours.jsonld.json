@@ -1,0 +1,62 @@
+{
+  "@context": {
+    "ldp": "http://www.w3.org/ns/ldp#",
+    "schema": "http://schema.org/",
+    "fedora": "http://fedora.info/definitions/v4/repository#",
+    "webac": "http://fedora.info/definitions/v4/webac#",
+    "acl": "http://www.w3.org/ns/auth/acl#",
+    "ucdlib": "http://digital.ucdavis.edu/schema#",
+    "ebucore": "http://www.ebu.ch/metadata/ontologies/ebucore/ebucore#"
+  },
+  "@id": "",
+  "@type": [
+    "schema:CreativeWork",
+    "schema:ImageObject",
+    "schema:Manuscript",
+    "http://fedora.info/definitions/v4/repository#ArchivalGroup"
+  ],
+  "schema:about": [
+    {
+      "@id": "http://id.worldcat.org/fast/967326"
+    },
+    {
+      "@id": "http://id.worldcat.org/fast/836484"
+    }
+  ],
+  "schema:associatedMedia": {
+    "@id": "@base:/media/Book_of_Hours.pdf"
+  },
+  "schema:creator": "Catholic Church",
+  "schema:datePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "1497"
+  },
+  "schema:description": "Provenance: Family of Jehan Chacère (1497); Pierre Picard le jeune (1530); Alex Scott Carter, \"MS No. 2\" (1907); acquired by UC Davis from Francis Edwards at the 8th California Antiquarian Book Faire (September 1972). \n\n Languages: Latin; French \n\n Notes: ff. 8-19v Calendar; ff. 20-57v Hours of BVM; ff. 58-69v Penitential pss & litany; ff. 70-91 Office of the Dead; ff. 91v-99v Obsecro te, O Intemerata, suffrages of Michael, John the Baptist, Sebastian, Margaret, Barbara, Stephen, Lawrence, Anne, Mary Magd. \n\n Physical Description: ff. i + 97 + i - Plain red morocco, twentieth century. Parchment - 206 x 155 mm - 21-22 long lines ruled in pale red ink. Hours of the BVM begin defectively; foliation skips 6, 7 to allow for stubs. \n\n Information for this description kindly supplied by D. J. Dutschke and C. W. Dutschke.",
+  "schema:identifier": [
+    "BX2080 A2 1497",
+    "ark:/87293/d38w3870g"
+  ],
+  "schema:image": {
+    "@id": "info:fedora/item/ark:/87293/d38w3870g/Book-of-Hours_0001.tif"
+  },
+  "schema:inLanguage": [
+    "la-LA",
+    "fr-FR"
+  ],
+  "schema:license": {
+    "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
+  },
+  "schema:location": "Poitiers, France",
+  "schema:material": "ff. i + 97 + i - Plain red morocco, twentieth century. Parchment - 206 x 155 mm - 21-22 long lines ruled in pale red ink",
+  "schema:name": "Hours of the Virgin, in Latin, preceded by a Calendar in French, and followed by the Pentential Psalms and Litany, the Office of the Dead, and prayers to the Virgin and memorials for Saints, in Latin.",
+  "schema:publisher": "UC Davis, Archives and Special Collections",
+  "schema:sdDatePublished": {
+    "@type": "http://www.w3.org/2001/XMLSchema#gYear",
+    "@value": "2024"
+  },
+  "schema:sdLicense": {
+    "@id": "http://rightsstatements.org/vocab/InC-NC/1.0/"
+  },
+  "schema:sdPublisher": "UC Davis Library, Archives and Special Collections",
+  "schema:temporal": "Before 1497"
+}
