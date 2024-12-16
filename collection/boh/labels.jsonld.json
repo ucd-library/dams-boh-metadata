@@ -1,0 +1,20 @@
+[
+  {
+    "@id": "",
+    "@context": {
+      "ucdlib": "http://digital.ucdavis.edu/schema#"
+    },
+    "@type": [
+      "ucdlib:LabelService",
+      "ucdlib:Service"
+    ]
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/836484",
+    "http://schema.org/name": "Books of hours"
+  },
+  {
+    "@id": "http://id.worldcat.org/fast/967326",
+    "http://schema.org/name": "Illumination of books and manuscripts, Medieval"
+  }
+]
