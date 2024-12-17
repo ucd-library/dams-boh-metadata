@@ -13,8 +13,8 @@
     "schema:Collection",
     "http://fedora.info/definitions/v4/repository#ArchivalGroup"
   ],
-  "ucdlib:hasGraph": {
-    "@id": "@base:/graph.hdt"
+  "ucdlib:hasLabel": {
+    "@id": "@base:/labels"
   },
   "schema:datePublished": {
     "@type": "http://www.w3.org/2001/XMLSchema#gYear",
