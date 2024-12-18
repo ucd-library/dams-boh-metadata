@@ -23,7 +23,7 @@
   "schema:description": "Illustrated Book of Hours from the late 15th century. This manuscript also includes a calendar in French, the Pential Psalms and Litany, the Office of the Dead, prayers to the Virgin, and memorials for saints.",
   "schema:identifier": "ark:/87293/d3vd6pc0t",
   "schema:image": {
-    "@id": "@base:/media/images/Book-of-Hours_0060.tif"
+    "@id": "info:fedora/item/ark:/87293/d38w3870g/Book-of-Hours_0060.tif"
   },
   "schema:license": {
     "@id": "http://rightsstatements.org/vocab/NoC-US/1.0/"
